@@ -1,5 +1,10 @@
 # Dinven — Inventory Management System
 
+> **Student:** Murat Karabulut
+> **Student No:** 47127
+> **University:** Vizja University
+> **Project Type:** Final Project
+
 A full-stack inventory and order management system built with React, Node.js/Express, and PostgreSQL. Developed as a university final project.
 
 ## Tech Stack
